@@ -1,6 +1,8 @@
 # Sudoku-Solver-on-Lua
 A code in Lua54 that can solve sudoku game for any size
 
+(tried downloading on chrome and it blocks because of virus, so you may need to disable of anti virus before downloading the file)
+
 Go to the "settings.txt" file and change the values of the Block Size X and BLock Size Y
 
 Insert your sudoku in "sudokuinput.txt"
