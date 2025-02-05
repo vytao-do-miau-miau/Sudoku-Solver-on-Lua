@@ -1,6 +1,8 @@
 # Sudoku-Solver-on-Lua
 A code in Lua54 that can solve sudoku game for any size
 
+Go to the "settings.txt" file and change the values of the Block Size X and BLock Size Y
+
 Insert your sudoku in "sudokuinput.txt"
 Use numbers and underscore for blanks spaces
 Make sure to give a space between cells
