@@ -1,0 +1,2 @@
+BlockSizeX: 3
+BlockSizeY: 2
